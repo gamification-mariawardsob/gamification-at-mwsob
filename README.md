@@ -21,6 +21,10 @@ www.questanja.org
 
 www.
 
+P: Virtual / Augmented Reality
+
+
+
 D: Business simulation
 
 https://open.sap.com/courses/erpsim1-pc
