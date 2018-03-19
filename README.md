@@ -1,7 +1,7 @@
 # gamification-at-mwsob
 
 
-Collaborate
+P: Collaborate
 
 www.kahoot.it
 
@@ -10,30 +10,30 @@ www.learningapps.org
 www.spieleinderschule.org
 
 
-Challenge
+P: Challenge
 
 https://supertuxkart.net/Main_Page
 
 
-Serious Games/Gamebased-Learning
+P: Serious Games/Gamebased-Learning
 
 www.questanja.org
 
 www.
 
-Business simulation
+D: Business simulation
 
 https://open.sap.com/courses/erpsim1-pc
 
 
-Politics
+D: Politics
 
 https://www.ea.com/games/simcity
 
 
-Ethics
+D: Ethics
 
 http://moralmachine.mit.edu/
 
-
+D: History
 
