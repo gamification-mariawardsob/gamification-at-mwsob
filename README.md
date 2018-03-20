@@ -14,9 +14,7 @@ P: Collaborate
 
 www.kahoot.it
 
-www.learningapps.org
 
-www.spieleinderschule.org
 
 
 P: Challenge
@@ -25,6 +23,10 @@ https://supertuxkart.net/Main_Page
 
 
 P: Serious Games/Gamebased-Learning
+
+www.spieleinderschule.org
+
+www.learningapps.org
 
 www.questanja.org
 
