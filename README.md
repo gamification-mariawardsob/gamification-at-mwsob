@@ -14,12 +14,20 @@ Bibliography
 
 P: Collaborate
 
-www.kahoot.it
+http://www.spielaffe.de/Feuer-und-Wasser-Spiele
 
 http://store.steampowered.com/app/448510/Overcooked/
 
+https://www.miniclip.com/games/diepio/en/#t-s-f-C
+
+https://www.miniclip.com/games/braains-io/en/#t-s-f-C
+
+https://www.miniclip.com/games/mafia-battle/en/#t-s-f-C
+
 
 P: Challenge
+
+www.kahoot.it
 
 https://supertuxkart.net/Main_Page
 
@@ -32,7 +40,8 @@ www.learningapps.org
 
 www.questanja.org
 
-www.
+https://ludinc.de/professor-s/
+
 
 P: Virtual / Augmented Reality
 
@@ -41,6 +50,8 @@ P: Virtual / Augmented Reality
 D: Business simulation
 
 https://open.sap.com/courses/erpsim1-pc
+
+https://www.openttd.org/en/
 
 
 D: Politics
@@ -53,4 +64,13 @@ D: Ethics
 http://moralmachine.mit.edu/
 
 D: History
+
+https://www.spielen.de/top-onlinespiele/strassen-von-rom-2/
+
+https://romadoria.gamigo.com/de-de
+
+D: Data Protection
+
+http://store.steampowered.com/app/633060/Orwell_Ignorance_is_Strength
+
 
