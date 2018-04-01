@@ -58,6 +58,13 @@ https://www.youtube.com/watch?v=_BocY4w_25s
 https://www.youtube.com/watch?v=lJhjFwb_rEk
 
 
+P: Produktion
+
+https://github.com/SuperTux/flexlay
+
+https://github.com/SuperTux/supertux-editor
+
+
 D: Business simulation
 
 https://open.sap.com/courses/erpsim1-pc
