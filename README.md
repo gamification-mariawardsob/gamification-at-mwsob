@@ -12,7 +12,7 @@ http://www.soziotech.org/gamification-steigerung-der-nutzungsmotivation-durch-sp
 Bibliography
 
 
-P: Collaborate
+P: Cooperate
 
 http://www.spielaffe.de/Feuer-und-Wasser-Spiele
 
@@ -29,7 +29,7 @@ https://www.miniclip.com/games/braains-io/en/#t-s-f-C
 https://www.miniclip.com/games/mafia-battle/en/#t-s-f-C
 
 
-P: Challenge
+P: Competition
 
 www.kahoot.it
 
