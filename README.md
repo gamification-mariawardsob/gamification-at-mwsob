@@ -82,9 +82,11 @@ D: Mathematics
 
 http://www.monkeyswag.com/
 
-D: Vocabulary
+D: Vocabulary/Language
 
 http://www.vocabicar.de/
+
+http://ddlc.moe/
 
 
 D: Ethics
