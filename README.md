@@ -52,6 +52,10 @@ www.questanja.org
 
 https://ludinc.de/professor-s/
 
+https://www.dutyfarm.com/de/portfolio/smart-home/
+
+http://demo.datadealer.net
+
 
 P: Virtual / Augmented Reality
 
