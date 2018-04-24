@@ -68,7 +68,11 @@ https://www.youtube.com/watch?v=_BocY4w_25s
 https://www.youtube.com/watch?v=lJhjFwb_rEk
 
 
-P: Produktion
+P: Design
+
+http://learningapps.org
+
+http://h5p.org
 
 https://github.com/SuperTux/flexlay
 
