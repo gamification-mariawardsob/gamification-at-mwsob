@@ -37,6 +37,10 @@ www.kahoot.it
 
 https://www.airconsole.com/games/partygames
 
+http://www.towerfall-game.com
+
+http://12orbits.com/index.html
+
 https://www.blobby-online.com/de
 
 https://itunes.apple.com/de/app/rules/id840811083?mt=8
