@@ -22,6 +22,8 @@ http://store.steampowered.com/app/448510/Overcooked/
 
 http://spaceteam.ca
 
+https://www.nintendo.com/games/detail/snipperclips-plus-switch
+
 https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse/?l=german
 
 http://www.reality-twist.com/wp/games/utopolis-aufbruch-der-tiere/
