@@ -121,6 +121,10 @@ D: Ethics
 
 http://moralmachine.mit.edu/
 
+http://www.serious-games-solutions.de/menschen-auf-der-flucht/
+
+http://outcastedgame.com
+
 D: History
 
 https://www.spielen.de/top-onlinespiele/strassen-von-rom-2/
