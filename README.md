@@ -72,6 +72,10 @@ http://demo.datadealer.net
 
 http://die-cybermights.de/proto/dksb_s1/index.html
 
+http://www.spielaffe.de/Lernspiele
+
+https://www.lernspiel.schul-game.de
+
 
 P: Virtual / Augmented Reality
 
