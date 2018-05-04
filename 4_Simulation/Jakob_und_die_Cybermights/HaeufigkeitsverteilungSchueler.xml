@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <FIELD1>Kategorie-Nr</FIELD1>
+    <FIELD2>Kategorie</FIELD2>
+    <FIELD3>Item-Nr</FIELD3>
+    <FIELD4>Item</FIELD4>
+    <FIELD5>Insgesamt</FIELD5>
+    <FIELD6>Stimme nicht zu</FIELD6>
+    <FIELD7>Stimme eher nicht zu</FIELD7>
+    <FIELD8>Stimme eher zu</FIELD8>
+    <FIELD9>Stimme zu</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19940</FIELD3>
+    <FIELD4>Mir hat das Spiel Spaß gemacht.</FIELD4>
+    <FIELD5>22</FIELD5>
+    <FIELD6>0</FIELD6>
+    <FIELD7>0</FIELD7>
+    <FIELD8>5</FIELD8>
+    <FIELD9>17</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19941</FIELD3>
+    <FIELD4>Ich habe bei dem Spiel etwas gelernt.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>4</FIELD6>
+    <FIELD7>5</FIELD7>
+    <FIELD8>9</FIELD8>
+    <FIELD9>5</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19942</FIELD3>
+    <FIELD4>Wir haben als Gruppe gut zusammengearbeitet.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>0</FIELD6>
+    <FIELD7>1</FIELD7>
+    <FIELD8>3</FIELD8>
+    <FIELD9>19</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19943</FIELD3>
+    <FIELD4>Mir wäre es lieber gewesen, das Spiel allein zu spielen.</FIELD4>
+    <FIELD5>22</FIELD5>
+    <FIELD6>17</FIELD6>
+    <FIELD7>2</FIELD7>
+    <FIELD8>0</FIELD8>
+    <FIELD9>3</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19944</FIELD3>
+    <FIELD4>Ich habe das Spiel ziemlich schnell verstanden.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>2</FIELD6>
+    <FIELD7>7</FIELD7>
+    <FIELD8>8</FIELD8>
+    <FIELD9>6</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19945</FIELD3>
+    <FIELD4>Das Spiel war langweilig.</FIELD4>
+    <FIELD5>22</FIELD5>
+    <FIELD6>12</FIELD6>
+    <FIELD7>7</FIELD7>
+    <FIELD8>2</FIELD8>
+    <FIELD9>1</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19946</FIELD3>
+    <FIELD4>Es sollten öfter solche Spiele in den Unterricht integriert werden.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>0</FIELD6>
+    <FIELD7>0</FIELD7>
+    <FIELD8>7</FIELD8>
+    <FIELD9>16</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19947</FIELD3>
+    <FIELD4>Ich hätte meine Mitspieler in der Gruppe lieber selbst ausgesucht.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>11</FIELD6>
+    <FIELD7>6</FIELD7>
+    <FIELD8>5</FIELD8>
+    <FIELD9>1</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19948</FIELD3>
+    <FIELD4>Ich fand, die Zeit verging viel zu schnell.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>3</FIELD7>
+    <FIELD8>3</FIELD8>
+    <FIELD9>16</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19949</FIELD3>
+    <FIELD4>Ich hätte Lust auf weitere Computerspiele mit meiner Klasse.</FIELD4>
+    <FIELD5>22</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>0</FIELD7>
+    <FIELD8>3</FIELD8>
+    <FIELD9>18</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19950</FIELD3>
+    <FIELD4>Mit Computerspielen kann man auch viel lernen.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>1</FIELD6>
+    <FIELD7>3</FIELD7>
+    <FIELD8>8</FIELD8>
+    <FIELD9>11</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19951</FIELD3>
+    <FIELD4>Wir haben als Gruppe gut zusammengearbeitet.</FIELD4>
+    <FIELD5>22</FIELD5>
+    <FIELD6>0</FIELD6>
+    <FIELD7>1</FIELD7>
+    <FIELD8>6</FIELD8>
+    <FIELD9>15</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19952</FIELD3>
+    <FIELD4>Das Spiel war zu kompliziert.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>5</FIELD6>
+    <FIELD7>9</FIELD7>
+    <FIELD8>9</FIELD8>
+    <FIELD9>0</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19953</FIELD3>
+    <FIELD4>Ich habe mehr Spaß daran, ein Problem zu lösen, wenn es ein Spiel ist.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>0</FIELD6>
+    <FIELD7>2</FIELD7>
+    <FIELD8>8</FIELD8>
+    <FIELD9>13</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19954</FIELD3>
+    <FIELD4>Computerspiele und lernen - das passt nicht zusammen.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>9</FIELD6>
+    <FIELD7>11</FIELD7>
+    <FIELD8>2</FIELD8>
+    <FIELD9>1</FIELD9>
+  </row>
+  <row>
+    <FIELD1>2661</FIELD1>
+    <FIELD2>Jakob_und_die_Cybermights</FIELD2>
+    <FIELD3>19955</FIELD3>
+    <FIELD4>Ich habe bei dem Spiel auch viel über meine Mitschülerinnen erfahren.</FIELD4>
+    <FIELD5>23</FIELD5>
+    <FIELD6>3</FIELD6>
+    <FIELD7>8</FIELD7>
+    <FIELD8>6</FIELD8>
+    <FIELD9>6</FIELD9>
+  </row>
+</root>
