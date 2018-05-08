@@ -43,6 +43,8 @@ www.kahoot.it
 
 https://www.airconsole.com/games/partygames
 
+https://www.quizshow-trainingslager.de/Quiz/Quiz-Battle/Quiz-Arena-Initialisierung.aspx
+
 http://www.towerfall-game.com
 
 http://12orbits.com/index.html
