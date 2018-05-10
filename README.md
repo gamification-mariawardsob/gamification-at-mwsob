@@ -2,6 +2,14 @@
 
 Links
 
+https://digitale-spielewelten.de/
+
+https://digitale-spielewelten.de/materialien
+
+https://digitale-spielewelten.de/methoden
+
+https://digitale-spielewelten.de/projekte
+
 https://digitale-spielewelten.de/methoden/herausforderung-multiplayer/244
 
 https://www.nandostoecklin.ch/
@@ -9,6 +17,20 @@ https://www.nandostoecklin.ch/
 http://www.enterprise-gamification.com/mediawiki/index.php?title=Main_Page
 
 http://www.soziotech.org/gamification-steigerung-der-nutzungsmotivation-durch-spielkonzepte/
+
+http://www.gamepaed-edutainment.de/
+
+http://www.creative-gaming.eu/
+
+http://www.computerspielschule-hamburg.de/
+
+http://spielbar.de/
+
+http://www.spieleratgeber-nrw.de/
+
+http://www.ics-spawnpoint.de/
+
+https://toolkit-gbl.com/
 
 
 Bibliography
