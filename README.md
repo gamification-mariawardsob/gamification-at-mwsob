@@ -2,6 +2,22 @@
 
 Links
 
+http://www.eludamos.org/index.php/eludamos
+
+http://gamestudies.org/1702
+
+http://game-research.com/
+
+http://www.paidia.de/
+
+https://www.ludologie.de/
+
+https://game.itu.dk/
+
+http://www.digra.org/
+
+https://gameresearchlab.uta.fi/
+
 https://digitale-spielewelten.de/
 
 https://digitale-spielewelten.de/materialien
