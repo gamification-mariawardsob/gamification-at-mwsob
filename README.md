@@ -1,6 +1,6 @@
 # gamification-at-mwsob
 
-Links
+## Links
 
 http://www.eludamos.org/index.php/eludamos
 
@@ -49,10 +49,10 @@ http://www.ics-spawnpoint.de/
 https://toolkit-gbl.com/
 
 
-Bibliography
+## Bibliography
 
 
-P: Cooperate
+## P: Cooperate
 
 http://www.spielaffe.de/Feuer-und-Wasser-Spiele
 
@@ -75,7 +75,7 @@ https://www.miniclip.com/games/braains-io/en/#t-s-f-C
 https://www.miniclip.com/games/mafia-battle/en/#t-s-f-C
 
 
-P: Competition
+## P: Competition
 
 www.kahoot.it
 
@@ -96,7 +96,7 @@ https://itunes.apple.com/de/app/rules/id840811083?mt=8
 https://supertuxkart.net/Main_Page
 
 
-P: Serious Games/Gamebased-Learning
+## P: Serious Games/Gamebased-Learning
 
 www.spieleinderschule.org
 
@@ -119,7 +119,7 @@ https://www.lernspiel.schul-game.de
 http://like2be.ch/game/
 
 
-P: Virtual / Augmented Reality
+## P: Virtual / Augmented Reality
 
 https://www.philso.uni-augsburg.de/lehrstuehle/digimed/forschung/bildungkommunikation3d/
 
@@ -128,7 +128,7 @@ https://www.youtube.com/watch?v=_BocY4w_25s
 https://www.youtube.com/watch?v=lJhjFwb_rEk
 
 
-P: Design
+## P: Design
 
 http://learningapps.org
 
@@ -139,7 +139,7 @@ https://github.com/SuperTux/flexlay
 https://github.com/SuperTux/supertux-editor
 
 
-D: Business simulation
+## D: Business simulation
 
 https://open.sap.com/courses/erpsim1-pc
 
@@ -148,22 +148,22 @@ https://meister-power.de/
 https://www.openttd.org/en/
 
 
-D: Politics
+## D: Politics
 
 https://www.ea.com/games/simcity
 
-D: Mathematics
+## D: Mathematics
 
 http://www.monkeyswag.com/
 
-D: Vocabulary/Language
+## D: Vocabulary/Language
 
 http://www.vocabicar.de/
 
 http://ddlc.moe/
 
 
-D: Ethics
+## D: Ethics
 
 http://moralmachine.mit.edu/
 
@@ -171,17 +171,17 @@ http://www.serious-games-solutions.de/menschen-auf-der-flucht/
 
 http://outcastedgame.com
 
-D: History
+## D: History
 
 https://www.spielen.de/top-onlinespiele/strassen-von-rom-2/
 
 https://romadoria.gamigo.com/de-de
 
-D: Data Protection
+## D: Data Protection
 
 http://store.steampowered.com/app/633060/Orwell_Ignorance_is_Strength
 
-D: Computer Science
+## D: Computer Science
 
 http://lightbot.com/flash.html
 
