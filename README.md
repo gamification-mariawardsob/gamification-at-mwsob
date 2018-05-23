@@ -30,6 +30,8 @@ https://digitale-spielewelten.de/methoden/herausforderung-multiplayer/244
 
 https://www.nandostoecklin.ch/
 
+http://www.jesperjuul.net/
+
 http://www.enterprise-gamification.com/mediawiki/index.php?title=Main_Page
 
 http://www.soziotech.org/gamification-steigerung-der-nutzungsmotivation-durch-spielkonzepte/
