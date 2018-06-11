@@ -238,3 +238,7 @@ https://opentechschool.github.io/js-beginners-1/index_de.html
 https://de.khanacademy.org/hourofcode
 
 http://pymove3d.sudile.com/de/stories/python/
+
+https://www.jdoodle.com/online-java-compiler
+
+https://www.jdoodle.com/python3-programming-online
