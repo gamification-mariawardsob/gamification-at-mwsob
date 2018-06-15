@@ -140,6 +140,8 @@ https://github.com/SuperTux/flexlay
 
 https://github.com/SuperTux/supertux-editor
 
+https://www.ea.com/de-de/games/the-sims/the-sims-4/pc/store/mac-pc-download-base-game-standard-edition
+
 
 ## D: Business simulation
 
